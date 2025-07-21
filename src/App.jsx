@@ -10,7 +10,7 @@ function App() {
     <div className="relative w-full min-h-screen bg-white overflow-hidden">
       <div
         className="absolute right-0 top-0 h-full w-[70%] bg-no-repeat bg-cover z-0"
-        style={{ backgroundImage: "url('/src/assets/backgroundHome.svg')" }}
+        style={{ backgroundImage: "url('/public/backgroundHome.svg')" }}
       />
 
 
