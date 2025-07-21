@@ -44,7 +44,7 @@ export default function ThirdSection() {
   return (
     <>
       <section
-        style={{ backgroundImage: "url('/public/BackgroundSection3.svg')" }}
+        style={{ backgroundImage: "url('/BackgroundSection3.svg')" }}
         className="bg-[#0D0D0D] bg-cover bg-center bg-no-repeat text-white py-16 px-4 md:px-12 lg:px-20 xl:mt-20">
         <div className=" mx-auto ">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-center">Empower your profession</h2>
